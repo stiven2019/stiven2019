@@ -92,9 +92,9 @@ Mi enfoque es **experimental**, siempre abierto a nuevas tecnologías y metodolo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stiven2019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stiven2019&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stiven2019&theme=tokyonight&hide_border=true)
 
 </div>
 
