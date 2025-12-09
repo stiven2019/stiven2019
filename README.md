@@ -88,15 +88,28 @@ Mi enfoque es **experimental**, siempre abierto a nuevas tecnologías y metodolo
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas Alternativas y Estables
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stiven2019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stiven2019&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stiven2019&theme=tokyonight&hide_border=true)
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=stiven2019&theme=onedark&no-frame=true&margin-w=15" />
+
+<!-- Actividad -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stiven2019&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
+
+<!-- Snake -->
+<img src="https://raw.githubusercontent.com/stiven2019/stiven2019/output/github-contribution-grid-snake.svg" />
+
+<!-- Stats Mirror -->
+<img src="https://github-readme-stats-mu-steel.vercel.app/api?username=stiven2019&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Streak Mirror -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=stiven2019&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
 
 ---
 
